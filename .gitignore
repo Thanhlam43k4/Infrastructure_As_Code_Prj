@@ -1,0 +1,4 @@
+/Basic-Webserver/*.backup
+/Basic-Webserver/*.terraform
+/Basic-Webserver/*.terraform.lock.hcl
+/Basic-Webserver/*.tfstate
